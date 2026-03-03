@@ -1,0 +1,6 @@
+Requirement 
+Python libraries:-
+ pandas
+ numpy
+ matplotlib
+ seaborn
