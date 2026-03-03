@@ -133,7 +133,7 @@ Dashboard Development
 ---
 
 ## 10. Project Structure
-
+````
 Financial_Performance_CashFlow_Analysis/
 │
 ├── data/
@@ -158,7 +158,7 @@ Financial_Performance_CashFlow_Analysis/
 ├── requirements.txt
 ├── .gitignore
 └── LICENSE
-
+````
 ---
 
 ## 11. Key Insights
@@ -199,6 +199,20 @@ Financial_Performance_CashFlow_Analysis/
 
 ---
 
-## 15. Conclusion
+## 15. Dashboard Preview
+
+Executive summary dashboard displaying total revenue, expenses, profit, transaction volume, departmental profit distribution, and monthly financial trends.
+![image alt](https://github.com/TusharRajput018/Financial-Performance-Cash-Flow-Analysis-Project-/blob/b738be24d81db09f8589f4e485b797a379008616/images/dashboard_view1.png)
+
+Cash flow risk dashboard highlighting delayed amounts, average delay days, top counterparties by delay, and monthly settlement performance analysis.
+![image alt](https://github.com/TusharRajput018/Financial-Performance-Cash-Flow-Analysis-Project-/blob/b738be24d81db09f8589f4e485b797a379008616/images/dashboard_view2.png)
+
+Detailed cost analysis dashboard showing category-wise expenses, department-level profit vs expenses, and consolidated financial performance breakdown.
+![image alt](https://github.com/TusharRajput018/Financial-Performance-Cash-Flow-Analysis-Project-/blob/b738be24d81db09f8589f4e485b797a379008616/images/dashboard_view3.png)
+
+---
+
+## 16. Conclusion
+
 
 This project demonstrates how transaction-level financial data can be transformed into actionable financial intelligence. By combining structured data cleaning, SQL aggregation, star-schema modeling, and KPI-driven reporting, the system enables informed financial decision-making, improved cost control, and proactive liquidity management.
